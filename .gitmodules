@@ -1,0 +1,6 @@
+[submodule "UnifyNet-social-media-Full-Stack-Project-CLIENT"]
+	path = UnifyNet-social-media-Full-Stack-Project-CLIENT
+	url = https://github.com/jishnuanilDev/UnifyNet-social-media-Full-Stack-Project-CLIENT.git
+[submodule "UnifyNet-social-media-Full-Stack-Project-SERVER"]
+	path = UnifyNet-social-media-Full-Stack-Project-SERVER
+	url = https://github.com/jishnuanilDev/UnifyNet-social-media-Full-Stack-Project-SERVER.git
